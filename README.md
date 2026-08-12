@@ -4,7 +4,7 @@ A single-purpose Android application for tracking daily weight. No account serve
 
 Built in Java for SNHU CS 360: Mobile Architecture and Programming, across Projects One through Three.
 
-**Package:** `com.example.truescale_shadwick`
+**Package:** `TrueScale_Shadwick_Week_7.zip`
 **Language:** Java
 **minSdk:** 24 (Android 7.0) · **compileSdk / targetSdk:** 34 (Android 14)
 
